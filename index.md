@@ -2,9 +2,9 @@
 
 ---
 
-### Category Name 1 
+### Applications
 
-[Project 1 Title](https://jrudd1.github.io/twitter-bot-python-heroku/.)
+[Twitter Bot with Python and Heroku](https://jrudd1.github.io/twitter-bot-python-heroku/.)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
